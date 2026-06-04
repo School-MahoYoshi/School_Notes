@@ -34,7 +34,7 @@ namespace fel_20260422
         {
             if (method == SortingMethods.BubbleSort)
             {
-
+                
             }
             else if (method == SortingMethods.QuickSort)
             {

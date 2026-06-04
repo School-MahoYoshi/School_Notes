@@ -1,6 +1,6 @@
 "Milyen reformokat hajtott végre I.Károly a monarchia gazdasági felemelkedése érdekében"  
 # Károly Róbert  
-- 1301-1321  
+- 1301-1342  
 - Magyar királyság  
 - Kihalt az Árpád-ház férfi ága  
 ## Trónöröklés  
@@ -56,6 +56,8 @@
 	- Földesúri fennhatóság alatt állnak  
 	- Korlátozott önállóság  
 	- Egyösszegű adófizetés  
+### Visegrádi királytalálkozó  
+TODO: Megcsinálni  
 
 # Források  
 - [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/karoly-robert-gazdasagpolitikajanak-fobb-elemei/)  

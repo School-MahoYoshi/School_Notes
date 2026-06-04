@@ -1,0 +1,26 @@
+# 7\. Jelrendszer  
+- A jel: Érzékszerveinkkel felfogható plusz jelentéssel bír  
+- pl. Füst  
+	- Természetes, erdőtűz  
+	- Mesterséges, tábortűz  
+- Jelek relrendszert alkotnak, pl. KRESZ  
+- Nyelvi jel  
+	- hang/betű  
+	- Szóelemek  
+		- Toldalékok  
+		- Szótövek  
+		- Szavak  
+		- Szószerkezetek  
+		- Mondat  
+- Feladat: A megadott mondatokból hozz példát a nyelvi jelekre  
+# 8\. Rétegeződés  
+- Társadalmi (Függőleges) rétegződés  
+	- Hova tartozunk  
+	- Kor  
+	- Nem  
+	- Szakma  
+	- Szabadidős tevékenység  
+	- stb.  
+- Földrajzi (Vízszintes) rétegződés  
+	- Nyelvjárások  
+	- Tájnyelvek  
