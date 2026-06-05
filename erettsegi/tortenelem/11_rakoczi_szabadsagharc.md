@@ -91,4 +91,4 @@
 # Források  
 - [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/a-rakoczi-szabadsagharc-1703-1711-2/)  
 - [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/a-rakoczi-szabadsagharc-1703-1711/)  
-- [10-es füzet](https://github.com/Maho-Yoshino/School_Notes/blob/main/2023-2024/Tortenelem/tori_rakoczi.md)  
+- [10-es füzet](https://github.com/School-MahoYoshi/School_Notes/blob/main/2023-2024/Tortenelem/rakoczi.md)  

@@ -57,7 +57,18 @@
 	- Korlátozott önállóság  
 	- Egyösszegű adófizetés  
 ### Visegrádi királytalálkozó  
-TODO: Megcsinálni  
+- 1335  
+- Résztvevők  
+	- Károly Róbert  
+	- Lengyel király  
+	- Luxemburgi János  
+- Lényege  
+	- Bécset elkerülő kereskedelmi útvonal létrehozása  
+		- Bécsnek árumegállító joga volt  
+	- Külső támadás elleni védelmi szövetkezet létrehozása  
+	- Segített rendezni viszályokat a két uralkodó között  
+		- A cseh király lemondott a lengyel trónról  
+		- A lengyelek megkapták sziléziát  
 
 # Források  
 - [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/karoly-robert-gazdasagpolitikajanak-fobb-elemei/)  

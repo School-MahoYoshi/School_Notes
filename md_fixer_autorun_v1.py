@@ -8,6 +8,7 @@ def fix_content(file_dir:str):
 	with open(file_dir, encoding="utf-8") as file:
 		text = file.readlines()
 	def replace_space_tab(line:str) -> str:
+		line = line.replace("    ", "\t")
 		if "   " in line:
 			line = line.replace("   ", "\t")
 		first_char = -1

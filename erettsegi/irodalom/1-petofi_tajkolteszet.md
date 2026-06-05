@@ -1,0 +1,48 @@
+# Petőfi Sándor tájköltészete  
+- 1844 - Versek c. versgyűjteménye  
+	- Ebben az évben keletkezett első kiemelkedő tájköltészeti alkotása is, "Az alföld"  
+- Tájköltészet = felvilágosodás + romantika  
+## Petőfi Sándor: Az alföld  
+- Keletkezett: 1844  
+- Címértelmezés  
+	- Témajelölő cím (tájegységet jelöl meg)  
+- Műfaji jellegzetesség:  
+	- Tájleíró költemény: A táj egyes elemeinek leírása dominál  
+	- Ódának is tekinthető  
+- Szerkezet  
+	- 1-2. vsz.  
+		- Kétféle tájideál szembeállításával kezd  
+			- Elismeréssel adózik a vadregényes tájnak, a zordon hegyvidéknek, de  
+			- Ezzel szembeállítja a rónát, és az alföldi síyk vidéket (fent <=> lent)  
+		- Sas metafóra  
+			- Romantika egyik legismertebb motívuma  
+			- Fenséget, végelen magasságot, szabadság képzetét egyszerre hordozza  
+			- A teljes metafórában ezzel a madárral azonosul  
+		- 3\. vsz.  
+			- Itt kezdődik az alföld leírása  
+			- Több nézőpontról mutatja meg a költő  
+			- A sas távlatából, felülről elkezdi az alföld leírását  
+		- 4-10. vsz.  
+			- Lefelé közlekedik, majd leér a földre (zoom technika)  
+			- Mindenféle életképet szemügyre vesz  
+				- Delelő gulyát a gémes kúttal  
+				- Nyaraló ménest a csikóssal  
+				- Tanyák közelében a megművelt földeket  
+				- Tanyák szomszédságában a tavat a vadludakkal, a nádast  
+				- A csárdát a betyárral  
+				- Az apró homoki állatokat és növényeket  
+		- 11\. vsz.  
+			- A tekintet távolodik, most a horizont felé  
+		- 12\. vsz.  
+			- Az 1-2. versszakban elkezdett vallomás visszatér, megfogalmazza kötődését az alföldhöz  
+			- A Szózat motívumvilágát idézi  
+## Petőfi Sándor: A puszta, télen  
+- Keletkezett: 1848 Január  
+- Címértelmezés  
+	- Témajelölő cím  
+	- Két fontos információt feje ki a tájra vonatkozóan:  
+		- Puszta: üresség, értéktelenség  
+		- Tél: Az elmúlás jelképe  
+- Műfaj: Tájleíró költemény  
+- Szerkezet  
+	-  
