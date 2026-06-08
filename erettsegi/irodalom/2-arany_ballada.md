@@ -1,0 +1,65 @@
+# Arany János  
+- Született 1817, Nagyszalonta  
+- Debreceni Református Kollégiumban tanult  
+- Felesége Ercsey Júlia volt  
+- Kisfaludy Társaság 1846-os pályázatát a Toldival megnyerte  
+- Meghalt 1882  
+- Petőfi mellett a legnagyobb magyar költőnek tartják  
+## Balladaköltészete  
+- Ballada: "Tragédia dalban elbeszélve"  
+- Műballada  
+	- Romantika korában lett népszerű  
+	- Romantikus ballada: Epikus, de három műnem határán helyezkedik el  
+		- Párbeszédes forma, tragikus téma (Dráma)  
+		- Dalforma, érzelmekről szóló tartalom (Líra)  
+		- Elbeszélés (Epika)  
+	- Cselekménye sűrített, történet elbeszélése szaggatott  
+		- Az események nagy része drámai párbeszédekből vagy lírai monológokból áll  
+	- Arany János emelte világirodalmi szintre  
+- 1853-ban kezdte el írni őket  
+	- Műveit egy forma ellenállásként a Habsburgok ellen írta  
+	- Rend szerint a történelem nehéz korszakairól írt  
+- Csoportosítás  
+	- Keletkezési hely szerint  
+		- Nagykőrősi balladák (1850-es évek)  
+		- Pesti balladák (1870-es évek)  
+	- Szerkezet szerint  
+		- Lineáris  
+		- Párhuzamos  
+	- Téma szerint  
+		- Történelmi balladák  
+			- Főleg XIV-XV századból  
+		- Népéleti  
+		- Lélektani  
+			- Lélekállapot változásokat tükröz  
+			- Gyakran tragikusak  
+- Balladái az emberi lélek mélységeit járják be  
+- Lélektani balladáiban lényeg a lélektani hitelesség  
+	- A bűn és bűnhődés problémáját állítja központba  
+	- Pl. Ágnes asszony (1853)  
+### Ágnes asszony  
+- Keletkezés  
+	- Nagykőrös, 1853  
+	- Lélektani ballada  
+	- Körkörös szerkezet  
+- A mű három szerkezeti egységre osztható  
+	- 1-4. - patak partja  
+	- 5-19. - Börtön, tárgyalóterem  
+	- 20-26. - Patak partja  
+- Az asszony megőrüléséről szól  
+- Műfaji jellemzők  
+	1. Líra  
+		- Verses  
+		- 5 soros versszakok  
+		- Rímelés  
+			- XAXAX (félrím)  
+			- Zavartságot tükröz, Ágnes lelkiállapotához igazodik  
+		- Balladai homály  
+			- Gyilkosság részletei  
+			- Az időtartam csak sejthető  
+	2. Dráma  
+		- Tragikus történet  
+			- Gyilkosság  
+			- Ágnes sorsa  
+	3. Epika  
+		- Történetet mond el  

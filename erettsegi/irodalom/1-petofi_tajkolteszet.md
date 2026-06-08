@@ -44,5 +44,3 @@
 		- Puszta: üresség, értéktelenség  
 		- Tél: Az elmúlás jelképe  
 - Műfaj: Tájleíró költemény  
-- Szerkezet  
-	-  
