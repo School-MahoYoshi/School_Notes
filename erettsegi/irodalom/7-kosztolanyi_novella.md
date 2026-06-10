@@ -1,0 +1,83 @@
+# Kosztolányi Dezső  
+- Született: 1885, Szabadka  
+- Iskola  
+	- Budapesten magyar-német szakon tanult  
+	- Bécsben filozófiát hallgatott (Freud tanításai hatottak a műveire)  
+- A Nyugat első nagy nemzedékébe tartozik  
+- Prózában és lírában is jelentős  
+	- Költő  
+	- Novellista  
+	- Regényíró  
+	- Műfordító  
+- Példaképe Arany János volt  
+- 1933-ban daganatot találtak az állkapcsán  
+- Meghalt 1936-ban, Budapesten  
+## Művei  
+- Lírájának fontos kötetei  
+	- A szegény kisgyermek panaszai  
+	- A bús férfi panaszai  
+	- Számadás  
+- Kisepikai művei közül kiemelkednek novellái  
+	- Esti Kornél novellák  
+- Fontos regények  
+	- Pacsirta - 1924  
+	- Aranysárkány - 1925  
+	- Édes Anna - 1926  
+## Novellaművészet  
+- Novella: francia "nouvelle" szóból ered  
+	- Jelentés: újdonság  
+- Cselekménye általában egy szálon fut  
+- Egyetlen sorsfordulat köré épül  
+- Az idő és tér szűkre szabott  
+- Szerkezete általában egyenes vonalú  
+- Gyakran csattanóval zárul  
+- Kevés szereplő  
+- Nem csak valós esemény  
+	- Jelrendszer  
+	- Emberi viselkedésformákat, gondolkodásmódokat és értékrendeket mutat be  
+- Az elbeszélő gyakran háttérben marad  
+	- Nem magyarázza az eseményeket  
+	- Az olvasóra bízza az értelmezést  
+### Kosztolányi Dezső: Fürdés  
+- Helyszín: Balaton-part  
+- Tragédiával végződik  
+	- A cím alapján viszont idillt várnánk  
+- Szereplők  
+	- Jancsika  
+	- Suhajda, az apa  
+	- Suhajdáné, az anya  
+#### Szerkezet  
+- A mű követi a hagyományos novella szerkezetét  
+- Előkészítés  
+	- A család bemutatása  
+- Bonyodalom  
+	- Suhajda feldühödik, mert Jancsika nem tanul rendesen a latin pótvizsgára  
+- Kibontakozás  
+	- Elindulnak fürdeni  
+- Tetőpont  
+	- Jancsika eltűnik a vízben  
+- Megoldás  
+	- Előkerül a holttest  
+- Az utolsó mondat időkeretbe helyezi a művet  
+	> "Még három se volt."  
+	- A mű fél háromkor kezdődik  
+	- Az egész történet körülbelül fél óra alatt játszódik le  
+#### Színek  
+- Fontos a színek szerepe a műben  
+- Fehér  
+	- Tisztaság  
+	- Nyugalom  
+- Piros  
+	- Veszély  
+	- Harag  
+	- Tragédiát jelez előre  
+	- pl.  
+		- Suhajda meggyszín fürdőnadrágja  
+		- Jancsika piros tornainge  
+		- Jancsika meggyszín fürdőnadrágja  
+#### Lélektan  
+- Kosztolányira hatott Freud pszichológiája  
+- Freud szerint a tudatalatti az elfojtott vágyak, félelmek, szorongások és agresszió helye  
+- A novella alapján felmerül a kérdés  
+	- Jancsika halála véletlen baleset volt?  
+	- Az apa elfojtott haragja is játszott szerepet benne?  
