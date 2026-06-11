@@ -1,0 +1,71 @@
+# Herczeg Ferenc  
+- Született: 1863  
+- 20. század elejének egyik legnépszerűbb írója  
+- Jelentős volt szerkesztőként és publicistaként  
+	- Lapja: Új idők  
+		- 1895-1949  
+		- A korszak egyik legolvasottabb  
+	- Számos tárcát írt  
+- Gyakori témái  
+	- Társadalmi kérdések  
+	- Történelem  
+	- Nemzeti értékek védelme  
+- 1954-ben meghalt  
+## Fontos művei  
+- Az Élet kapuja  
+- Bizánc  
+## Tárca  
+- Rövid, könnyed hangvételű írás  
+- A tárcanovella átmeneti műfaj  
+	- Félig publicisztika  
+	- Félig szépirodalom  
+- Aktuális társadalmi vagy közéleti témát dolgoz fel  
+- Jellemzők  
+	- Cselekményes  
+	- Fordulatos  
+	- Tájleírás  
+	- Lélekfestést használ  
+	- Él a késleltetés eszközeivel  
+## Herczeg Ferenc: Fekete szüret a Badacsonyon  
+- "Fekete szüret"  
+	- Oximoron - A fekete és a szüret jelentése ellentétes  
+- A szüret eredetileg  
+	- Öröm  
+	- Ünnep  
+	- Termékenység  
+- A fekete jelentése  
+	- Gyász  
+	- Pusztulás  
+	- Értékvesztés  
+- A cím jelentése  
+	- Természettel élő ember világának megkeserítése  
+	- A szőlőből készülő bor miatt vallásos jelentés is kapcsolódik hozzá  
+		- Megváltás  
+		- Feltámadás  
+### Szerkezet  
+- A mű gondolatmenete fokozatosan épül fel  
+- Először a Badacsony szépségét mutatja  
+	- Majd a bazaltbányászat pusztítását szembeállítja vele  
+### Érvelési eszközök  
+- Párhuzamok  
+	- Badacsony összehasonlítása más tájakkal  
+	- Goethe és a Monte Pellegrino említése  
+	- Nyugati országok példája  
+	- Halászbástya példája  
+- Ellentétek  
+	- Természet <=> Ipari pusztítás  
+	- Szőlőtőke <=> Banktőke  
+	- Nemzeti érdek <=> Magánérdek  
+	- Szépség <=> Haszonlesés  
+- Tekintélyen alapuló érvek  
+	- Goethe megidézése  
+	- Himfy és Berzsenyi említése  
+- Szakrális képek  
+	- Badacsony isteni alkotás  
+- Megszemélyesítés  
+	- A Badacsony élő testként szenved  
+### Üzenete  
+- A természet nem pusztán gazdasági erőforrás  
+- A Badacsony nemzeti és kulturális érték  
+- A pénz és haszonvágy nem írhatja felül a közösségi értékeket  
+- A mű tanulsága: Ha nem védjük meg az örökségeinket, akkor saját nemzeti önbecsülésünket romboljuk  
