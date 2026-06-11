@@ -1,0 +1,60 @@
+# Balassi Bálint  
+- 1554-1594  
+- A 16. század legnagyobb magyar költője  
+- Az első jelentős magyar nyelven alkotó költő  
+- Igazi reneszánsz egyéniség volt  
+## Reneszánsz vonások  
+- Művelt  
+- Nyolc nyelvet beszélt  
+- Felfedezte a földi élet szépségeit  
+- Fontos témája a szerelem  
+- Erős benne az egyéniség és az érzelmek kifejezése  
+### Fő témái  
+- Szerelem  
+	- Balassi a szerelem költője  
+	- Több nőhöz írt verseket  
+	- Fontos múzsái  
+		- Losonczi Anna  
+			- Hozzá írta az Anna-verseket  
+			- Ezek mögött valódi, megélt szerelem állt  
+		- Júlia  
+			- A Júlia versek is Losonczi Annához kapcsolódnak  
+			- Ezek már inkább udvarló, petrarkista jellegű versek  
+		- Célia  
+			- Wesselényiné Szárkándy Annához kapcsolódik  
+			- Sok hasonlat található a Célia-versekben  
+		- Fulvia  
+			- Ismeretlen  
+	- Reneszánsz vonások  
+		- A földi szerelem értékként jelenik meg  
+		- A nő szépségének dicsérete fontos  
+		- Sok költői kép  
+		- A versek személyesek, érzelmesek  
+- Vitézi költészete  
+	- Másik fontos témája  
+	- Katona- és vitézi élet  
+	- Megjelenik  
+		- Hazaszeretet  
+		- Katonai erények  
+		- Természet szépsége  
+		- Életöröm  
+		- Reneszánsz harmónia  
+	- Fontos verse  
+		- Egy katonaének  
+			- A vitézi élet szépségeit és nehézségeit is bemutatja  
+			- Hárompillérű szerkezet  
+				- 1,5,9 versszakok: Gondolati részek  
+				- Köztes versszakok: Leíró részek  
+			- Először katonaélet szépségeit, majd a harc nehézségeit ábrázolja  
+- Istenes költészete  
+	- Harmadik nagy témája az istenes költészet  
+	- Balassi közvetlenül fordul istenhez  
+		- Nem az egyházon keresztül  
+		- Egyéni emberként áll szemben Istennel  
+	- Mindig hisz Isten létezésében  
+	- Gyakran könyörög Isten segítségéért  
+### Formai sajátosságok  
+- Sok versét dallamra írta  
+	- "ab notam"  
+	- A versek így énekelhetőbbek  
+- Ez is reneszánsz vonás  
