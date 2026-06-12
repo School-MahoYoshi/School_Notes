@@ -1,0 +1,75 @@
+# Kölcsey Ferenc  
+- Született: 1790, Sződemeter  
+- Debreceni kollégiumban tanult  
+- 1815 - Csekén letelepedett  
+- Részt vett a reformkori közéletben  
+	- Szatmár megye aljegyzője, majd főjegyzője volt  
+	- 1832-től országgyűlési képviselő  
+## Reformkor  
+- Fő célja a polgári átalakulás felgyorsítása  
+- A reformkori irodalomnak vezető szerepe volt  
+	- A nemzeti öntudat erősítése  
+	- A magyar nyelv és kultúra fejlesztése  
+	- A társadalmi haladás támogatása  
+- A romantika és liberalizmus eszméi összekapcsolódtak  
+### Kölcsey jelentősége  
+- Költészetében központi témák  
+	- A haza sorsa  
+	- A nemzet múltja  
+	- A bűn és bűnhődés kérdése  
+	- A jobb jövő reménye  
+## Kölcsey Ferenc: Himnusz  
+- 1823\. január 22.  
+	- Ez lett a magyar kultúra napja  
+- Műfaj: Óda, himnusz  
+	- Istenhez szóló fohász  
+- Kölcsey a nemzet nevében szólal meg  
+- Erkel Ferenc zenésítette meg 1844-ben  
+### Szerkezet  
+- Keretes szerkezet  
+	- Az 1. és 8. versszak hasonló  
+- 1\. versszak - Istenhez fordul  
+	- Áldást és jobb sorsot kér a magyarságnak  
+- 2-3. versszak - dicső múlt mutatása  
+	- Honfoglalás  
+	- Termékeny föld  
+	- Tokaji bor  
+	- Kunsági kalász  
+	- Mátyás király győzelmei  
+- 4-6. versszak - történelmi szenvedések mutatása  
+	- Tatárjárás  
+	- Török hódoltság  
+	- Belső viszályok  
+	- Háborúk és pusztítás  
+- 7\. versszak - A jelen tragikus állapotát mutatja  
+	- A dicsőség helyét romlás és szenvedés váltotta le  
+- 8\. versszak - Istenhez könyörgés újra  
+	- Szánalmat és békésebb jövőt kér Istentől  
+- A műnek a közepén megfordul a fókusz  
+	- Az első fele tele reménnyel, és dicsőséges múltról beszél  
+	- A második fél tele nyomorral, és szenvedéssel  
+### Történelemszemlélet  
+- Kölcseynél a magyar történelem erkölcsi értelmezést kap  
+	- A nemzet szenvedéseinek oka a bűn  
+		- A büntetést Isten méri a nemzetre  
+	- A vers szerint a magyarság eleget szenvedett  
+		- "Megbűnhődte már e nép a múltat s jövendőt"  
+- A múlt kettős  
+	- Dicsőséges  
+	- Tragikus, szenvedésekkel teli  
+- A nemzeti összetartozás alapja:  
+	- Közös múlt  
+	- Közös szenvedés  
+	- Közös nyelv és kultúra  
+	- Közös erkölcsi felelősség  
+### Romantikus vonások  
+- Nagy történelmi távlatok  
+- Ellentétek  
+	- Dicső múlt <=> Tragikus jelen  
+	- Áldás <=> Büntetés  
+	- Bőség <=> Pusztulás  
+- Festői, túlzó képek  
+	- Vérözön  
+	- Lángtenger  
+	- Kőhalom  
+- A nemzeti múlt kiemelt szerepet kap  
