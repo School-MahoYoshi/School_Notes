@@ -1,0 +1,83 @@
+# George Orwell  
+- Indiában született  
+- Angliában tanult  
+- Baloldali gondolkodású volt  
+- Leghíresebb művei  
+	- 1984  
+	- Állatfarm  
+## George Orwell: Állatfarm  
+- Kéziratát sokáig nem adták ki  
+	- 18 angol kiadó utasította el  
+	- Főleg ideológiai okokból  
+	- A Szovjetunió ekkor Nagy-Britannia szövetségese volt  
+- A fasizmus bukása után jelent meg  
+- Országos, majd világsiker lett  
+- Műfaj: Regény  
+- Negatív utópia / disztópia  
+- Szatirikus mű  
+	- A sztálini diktatúrát gúnyosan ábrázolja  
+- Állatmese-szerű történet  
+	- Az állatok emberi társadalmi és politikai szerepeket jelképeznek  
+### Történet  
+- Egy angliai majorban az állatok fellázadnak gazdájuk ellen  
+- A lázadás gondolata Őrnagytól, az öreg disznótól származik  
+	- Beszédében az emberek uralma ellen buzdítja az állatokat  
+	- Egyenlőséget és szabadságot ígér  
+- Az állatok elűzik a gazdát  
+- Megalapítják az állatok köztársaságát  
+- Alapelvük: Nem szabad emberhez hasonlóvá válni  
+- A forradalom után eleinte boldogabb időszak kezdődik  
+	- Maguknak dolgoznak  
+	- Közös döntések vannak  
+	- Megalkotják a hét parancsolatot  
+- A disznók fokozatosan átveszik az irányítást  
+	- Okosabbnak tartják magukat  
+	- Nem dolgoznak  
+	- Nagyobb fejadagot kapnak  
+	- Kiváltságokat szereznek  
+#### Napóleon hatalma  
+- A két vezető disznó:  
+	- Napóleon  
+	- Hógolyó  
+- Napóleon elűzi Hógolyót  
+- Ettől kezdve ő lesz az egyetlen vezér  
+- Katonai erővel tartja fenn hatalmát  
+	- A kutyák a titkosrendőrséget és testőrséget jelképezik  
+- Napóleon körül személyi kultusz alakul ki  
+- A rendszer ellenségeket keres  
+	- Árulókat neveznek meg  
+	- Kivégzések történnek  
+- A múltat meghamisítják  
+	- Hógolyó szerepét átírják  
+	- A parancsolatokat folyamatosan megváltoztatják  
+#### Diktatúra jellemzői  
+- Diktátor erőszakkal félreállítja ellenségeit  
+- Katonai hatalmat tart fenn  
+- Propagandát használ  
+- Megjelenik a pártideológia  
+	- Állatizmus  
+	- Hét parancsolat  
+- A múltat meghamisítják  
+- Beszolgáltatás történik  
+- Kivégzik a rendszer ellenségeinek kikiáltott állatokat  
+- A munka kultusza uralkodik  
+	- Nincs pihenés  
+	- Nincs nyugdíj  
+	- Mindig újabb munkát követelnek  
+- Személyi kultusz épül Napóleon köré  
+#### Hét parancsolat változása  
+- "Állat nem alszik ágyban" -> "lepedőn"  
+- "Állat nem iszik alkoholt" -> "mértéktelenül"  
+- "Állat nem öl meg más állatot" -> "ok nélkül"  
+- Legfontosabb: "Minden állat egyenlő" -> "..., de egyes állatok egyenlőbbek a többinél"  
+### Fő mondanivaló  
+- Bemutatja, hogyan válik egy eredetileg nemes elképzelés totális diktatúrává  
+- A rendszer eltorzulását bemutatja  
+	- A disznók egyre inkább emberként viselkednek  
+		- Ágyban alszanak  
+		- Alkoholt isznak  
+		- Két lábon járnak  
+		- Emberekkel kereskednek  
+	- A vezetők ugyanazokká válnak, mint akiket korábban elűztek  
+	- A záróképben az állatok nem tudják megkülönböztetni a disznókat az emberektől  
+		- Az új hatalom ugyanolyan elnyomóvá vált, mint a régi  
