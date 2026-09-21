@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>DOM feladat</h1>
+    <p id="elso">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint labore incidunt, quos corrupti sapiente maxime consequuntur delectus? Molestias quibusdam quae aspernatur inventore minus illum laborum voluptatem commodi vel culpa cumque, quam impedit beatae blanditiis optio? Animi odit unde, eaque quod, itaque eos at ipsum facere repellat dolor enim voluptatum omnis voluptatibus iste architecto in atque dicta soluta veniam ab? Ad quis deleniti odio voluptatum!</p>
+    <button id="blue" onclick="kek()">Kék</button>
+
+    <p class="szam">1</p>
+    <p class="szam">2</p>
+    <p class="szam">3</p>
+    <p class="szam">4</p>
+    <p class="szam">5</p>
+    <p class="szam">6</p>
+
+
+    <script>
+        const elso = document.getElementById("elso");
+        elso.addEventListener("click", () => {
+            elso.style.color = "red";
+            elso.style.backgroundColor = "#c1c1c1";
+            elso.innerText = "A szöveg megváltozott!";
+        });
+
+        function kek() {
+            let h1 = document.querySelector("h1");
+            h1.style.color = "blue";
+        }
+        </script>
+</body>
+</html>

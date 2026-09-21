@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Függvényhívás</title>
+</head>
+<body>
+    <h1>Függvényhívás</h1>
+    <button id="gomb1">1</button>
+    <button id="gomb2">2</button>
+    <button id="gomb3">3</button>
+    <button id="gomb4">4</button>
+    <button id="gomb5">5</button>
+    <p id="demo"></p>
+
+    <script>
+        "use strict";
+
+        const demo = document.getElementById("demo")
+        const kiir = function (text) {
+            if (text === undefined) 
+                throw ReferenceError("No text was provided")
+            demo.innerText = text
+        }
+
+        function kiir1() {
+            demo.innerText = "Első gomb"
+            output = "text"
+        }
+        const gomb1 = document.getElementById("gomb1")
+        const kiir_prefilled = kiir.bind(null, "Első gomb")
+        gomb1.onclick = kiir1
+        
+        function kiir2() {
+            demo.innerText = "Második gomb"
+        }
+        const gomb2 = document.getElementById("gomb2")
+        gomb2.addEventListener("click", kiir2)
+        
+        const gomb3 = document.getElementById("gomb3")
+        gomb3.addEventListener("click", () => {
+            demo.innerText = "Harmadik gomb"
+        })
+
+        const but4 = document.getElementById("gomb4")
+
+        function terulet(a, b) {
+            let ter = a*b
+            kiir(ter)
+        }
+        but4.onclick = terulet.bind(null, 4, 5)
+
+        const but5 = document.getElementById("gomb5")
+        window.addEventListener("resize", () => {
+            console.log(`Window resized\nWidth: ${window.innerWidth}\nHeight: ${window.innerHeight}`)
+        })
+        but5.addEventListener("mouseover", () => {
+            but5.style.backgroundColor = "#005500"
+            but5.style.color = "#FFFFFF"
+            but5.innerText = "Mégse!"
+        })
+        but5.addEventListener("mouseout", () => {
+            but5.style.backgroundColor = null
+            but5.style.color = null
+            but5.innerText = "Kattints rám"
+        })
+        but5.addEventListener("click", () => {
+            but5.innerText = "Azt mondtam mégse!"
+            console.log("Rám kattintottál :(")
+        })
+
+    </script>
+</body>
+</html>

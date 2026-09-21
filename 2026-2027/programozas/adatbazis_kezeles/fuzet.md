@@ -1,0 +1,64 @@
+# ER modell (Egyed-Kapcsolat)
+- "Entity Relationship"
+- Elemei
+  - Egyedtípus
+    - A valós világ egy jól körül határolt eleme, amely egyértelműen megkülönböztethető egy másiktól
+    - Nagy nyomtatott betűkkel jelezzük
+    - Egy konkrét elemét egyedelőfordulásnak nevezzük
+  - Attribútum
+    - Az egyedtípus tulajdonságait adja meg
+    - Osztályozás
+      - Adat alapján
+        - Egyszerű
+          - Atomi értékekből áll
+          - Tovább bontani nem lehet
+        - Összetett
+          - Több egyszerű, vagy esetleg összetett attribútumra bontjuk
+          - Ez szubjektív, a feladat határozza meg
+      - Értéke lehet
+        - Egyértékű
+          - Egyedelőfordulás esetén pontosan egy értéket vehet fel
+        - Többértékű 
+          - Egyedelőfordulás esetén több értéket is felvehet
+      - Adat számazás
+        - Tárolt
+          - Megjelenik az adatbázisban
+        - Származtatott
+          - Le van következtetve más attribútumokból
+  - Kapcsolat
+    - Két egyedtípus között akkor van kapcsolat, ha van közös attribútum
+    - Ezt az attribútumot kapcsolótulajdonságnak, a többit pedig leírónak nevezzük
+    - Osztályozás
+        - Számosság
+          - 1:1
+          - 1:N
+          - N:M
+        - Szorosság
+          - Kötelező
+          - Félig közelező
+          - Opcionális
+## Adatmodellek
+- 3 modell létezik 
+  - Hierarchikus
+    - Vállalati szervezet felépítés
+  - Hálós
+    - Kezelőnyelve a Cobol
+    - Mai napig használják nagygépeken
+  - Relációs
+    - Egy táblázat
+    - Sorai, oszlopai vannak
+    - A sorait rekordoknak hívjuk
+    - Oszlopait mezőnek, vagy attribútumnak nevezzük
+    - A sorok és oszlopok sorrendje tetszőleges
+    - Az első sor kitüntetett szereppel él, itt adjuk meg az oszlopok neveit
+    - Egy adott oszlopban csak azonos típusú elemek szerepelhetnek
+    - A táblázat oszlopainak a száma az a fokszám
+    - A sorok száma a táblázat kardinalitása
+- Azt az attribútumot, amely egyértelműen azonosítja a táblázat bármely rekordját, elsődleges kulcsnak nevezzük
+- Másodlagos attribútumok azok, amelyek nem elemei a kulcsnak
+- Amennyiben egy attribútum képezi a kulcsot, akkor azt egyszerű kulcsnak nevezzük 
+- Ha egy attribútum önmagában nem képes egyértelműen azonosítani a táblázat rekordjait, akkor 2 vagy több attribútumot kell választani, ezt összetett kulcsnak nevezzük 
+- Ha több attribútum is alkalmas a kulcs szerepére, akkor önkényesen kiválasztunk egyet elsődleges kulcsnak, a többit alternatív kulcsnak nevezzük
+- Az a mező, amely kapcsolatot teremt egy másik tábla kulcsmezőjével, de ő maga nem kulcs, azt hívjuk ifrhrn kulvdnsk
+- A kulcs mezőket úgy kell megválasztani, hogy bármelyik elemét ebből elhagyva a maradék ne tudja betölteni a kulcs szerepét
+- Ha egy táblázatban az összes oszlop együttesen alkotja a kulcsot, akkor azt szuperkulcsnak nevezzük

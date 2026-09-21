@@ -1,5 +1,8 @@
 is_global = true
 build_property.RootNamespace = infojegyzet_vizsgafeladatok
-build_property.ProjectDir = C:\Users\user\Documents\Iskola\2024-2025\AsztaliAlkFejlesztes\feladatok\infojegyzet_vizsgafeladatok\
+build_property.ProjectDir = /home/mahoyoshino/Projects/School_MahoYoshi/School_Notes/2024-2025/AsztaliAlkFejlesztes/feladatok/infojegyzet_vizsgafeladatok/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

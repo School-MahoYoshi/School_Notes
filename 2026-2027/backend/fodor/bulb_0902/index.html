@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lámpa</title>
+</head>
+<body>
+    <h1>Lámpa</h1>
+    <img src="pic_bulboff.gif" alt="Lámpa" id="lamp" width="200">
+
+
+    <script>
+        const img = document.getElementById("lamp")
+
+        img.addEventListener("click", () => {
+            if (img.src.endsWith("pic_bulboff.gif")) {
+                img.src = "pic_bulbon.gif";
+            } else {
+                img.src = "pic_bulboff.gif";
+            }
+        });
+    </script>
+</body>
+</html>
