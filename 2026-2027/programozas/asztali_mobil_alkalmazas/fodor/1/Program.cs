@@ -100,7 +100,6 @@ namespace fodor_1
         {
             int[] szamok = { 2, 5, 6, 7, 4, 2, 7 };
             string[] szinek = new string[] {"kík", "pijos", "ződ", "józsaszín"};
-
         }
         #endregion
     }
