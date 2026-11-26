@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <title>Document</title>
+  </head>
+  <body>
+    <button id="ujsor">Új sor</button>
+    <table id="tablazat" class="striped">
+      <tr>
+        <th>első</th>
+        <th>második</th>
+        <th>harmadik</th>
+      </tr>
+      <tr>
+        <td>Testz</td>
+        <td>Teszt</td>
+        <td>Teszt</td>
+      </tr>
+
+      <tr>
+        <td>Testz</td>
+        <td>Teszt</td>
+        <td>Teszt</td>
+      </tr>
+
+      <tr>
+        <td>Testz</td>
+        <td>Teszt</td>
+        <td>Teszt</td>
+      </tr>
+      
+    </table>
+
+    <script>
+      const table = document.getElementById("tablazat").querySelector("tbody");
+      const btn = document.getElementById("ujsor");
+
+      function addTr() {
+        let tr = document.createElement("tr");
+        addTd(tr, "teszt szöveg")
+        addTd(tr, "teszt szöveg2")
+        addTd(tr, "teszt szöveg3")
+
+        table.appendChild(tr);
+      }
+      function addTd(parent, text) {
+        let td = document.createElement("td")
+        td.innerText = text
+
+        parent.appendChild(td)
+      }
+
+      btn.addEventListener("click", addTr);
+    </script>
+  </body>
+</html>

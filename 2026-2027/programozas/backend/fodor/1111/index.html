@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON</title>
+</head>
+<body>
+    <h1>
+        JSON Példák
+    </h1>
+    <table id="lista">
+        <thead>
+            <tr>
+                <th>Név</th>
+                <th>Átlag</th>
+                <th>Osztály</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+    <script>
+        async function diakokBetoltese() {
+            const lista = document.querySelector("table#lista>tbody")
+            try {
+                const resp = await fetch("diakok.json")
+                const data = await resp.json()
+                data.forEach(diak => {
+                    const tr = document.createElement("tr")
+
+                    for (const key in diak) {
+                        const item = document.createElement("td");
+                        item.innerText = diak[key];
+                        tr.appendChild(item);
+                    }
+    
+                    lista.appendChild(tr);
+                });
+            } catch (error) {
+                console.error(`Hiba történt az adatok betöltéskor!\n${error}`);
+                return;
+            }
+        }
+        diakokBetoltese()
+        /*fetch("dolgozo.json")
+            .then((resp) => resp.json())
+            .then((resp) => {
+                console.log(resp.nev)
+                document.querySelector("#eredmeny").innerText = resp.nev
+            })
+        */
+    </script>
+</body>
+</html>

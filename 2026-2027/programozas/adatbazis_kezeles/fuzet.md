@@ -62,3 +62,21 @@
 - Az a mező, amely kapcsolatot teremt egy másik tábla kulcsmezőjével, de ő maga nem kulcs, azt hívjuk ifrhrn kulvdnsk
 - A kulcs mezőket úgy kell megválasztani, hogy bármelyik elemét ebből elhagyva a maradék ne tudja betölteni a kulcs szerepét
 - Ha egy táblázatban az összes oszlop együttesen alkotja a kulcsot, akkor azt szuperkulcsnak nevezzük
+
+# Funkcionális függőség
+Y funkcionálisan függ `X`-től (`X` funkcionálisan meghatározza `Y`-t)
+Jelölés: `X -> Y`
+
+Ha bármely 2 rekord esetén az `X` attribútumai megegyeznek, abból következik, hogy `Y` attribútum értékei is meg kell, hogy egyezzenek
+A funkcionális függőség nem kommutatív (felcserélhető, `X -> Y` != `Y -> X`)
+Amennyiben `X -> Y` és `Y -> X` egyszerre áll fenn, akkor `kölcsönös funkcionális függőségről` beszélünk
+
+Az elsődleges kulcs funkcionálisan meghatározza a másodlagos attribútumokat
+
+`Y` teljesen függ `X`-től, ha nem függ `X` egyetlen valódi részhalmazától sem
+
+## Tranzitív tulajdonság
+`A = B`, `B = C`, akkor `A = C`
+
+`Y` tranzitíven függ `X`-től
+Ha létezik, egy olyan `Z` attribútum, amelyre érvényes, hogy `X` meghatározza `Z`-t, és `Z` meghatározza `Y`-t

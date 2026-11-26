@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rendelés</title>
+</head>
+<body>
+    <form onchange="changePrice()">
+        <label for="termek">Termék</label>
+        <select name="termek" id="termek"></select>
+
+        <br><br>
+        <label for="mennyiseg">Mennyiség</label>
+        <input type="number" name="mennyiseg" id="mennyiseg" min="1" max="10" value="1">
+    </form>
+    <br>
+    <p id="egysegar">Egységár: <span>0</span> Ft/kg</p>
+    <p id="fizetendo">Fizetendő: <span>0</span> Ft</p>
+
+    <script>
+        const arak = {
+            "Alma": 500,
+            "Körte": 600,
+            "Banán": 700
+        }
+        const termekSelect = document.getElementById("termek");
+        for (const termek in arak) {
+            const option = document.createElement("option");
+            option.value = termek;
+            option.textContent = termek;
+            termekSelect.appendChild(option);
+        }
+
+        const mennyisegInput = document.getElementById("mennyiseg");
+
+        function changePrice() {
+            const egysegar = arak[termekSelect.value];
+
+            document.querySelector("#egysegar>span").textContent = egysegar;
+            document.querySelector("#fizetendo>span").textContent = egysegar * parseInt(mennyisegInput.value);
+        }
+        changePrice()
+    </script>
+</body>
+</html>

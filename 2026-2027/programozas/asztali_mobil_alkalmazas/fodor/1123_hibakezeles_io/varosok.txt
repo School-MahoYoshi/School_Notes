@@ -1,0 +1,51 @@
+Helyezés;Város;Ország;Népesség
+1;Tokió;Japán;37868229
+2;Sanghaj;Kína;34000000
+3;Jakarta;Indonézia;31689592
+4;Szöul;Dél-Korea;25514000
+5;Kanton;Kína;25000000
+6;Peking;Kína;24900000
+7;Manila;Fülöp-szigetek;29300000
+8;New York;Egyesült Államok;23522861
+9;Sencsen;Kína;23300000
+10;Delhi;India;21753486
+11;Mexikóváros;Mexikó;21650668
+12;São Paulo;Brazília;21500000
+13;Lagos;Nigéria;21000000
+14;Mumbai;India;20748395
+15;Kairó;Egyiptom;20500000
+16;Vuhan;Kína;19000000
+17;Los Angeles;Egyesült Államok;18764814
+18;Csengtu;Kína;18100000
+19;London;Egyesült Királyság;17587146
+20;Dakka;Banglades;17151925
+21;Csungking;Kína;17000000
+22;Karacsi;Pakisztán;16900000
+23;Moszkva;Oroszország;16855000
+24;Oszaka;Japán;16800000
+25;Párizs;Franciaország;15868755
+26;Tiencsin;Kína;15400000
+27;Isztambul;Törökország;15067724
+28;Bangkok;Thaiföld;14626225
+29;Kolkata;India;14617882
+30;Irán Teherán;Irán;14595904
+31;Hangcsou;Kína;13400000
+32;Surabaya;Indonézia;13123948
+33;Buenos Aires;Argentína;13074000
+34;Hszian;Kína;12900000
+35;Bengaluru;India;11695110
+36;Csangcsou;Kína;11400000
+37;Kinshasa;Kongói Dem. Közt.;12350000
+38;Rio de Janeiro;Brazília;12330186
+39;Santou;Kína;12000000
+40;Nanking;Kína;11700000
+41;Ruhr-vidék;Németország;11471732
+42;Lahor;Pakisztán;11070000
+43;Csinan;Kína;11000000
+44;Csennai;India;10800253
+45;Harbin;Kína;10500000
+46;Lima;Peru;9886647
+47;Chicago;Egyesült Államok;9866910
+48;Washington;Egyesült Államok;9797063
+49;Csengcsou;Kína;9700000
+50;Johannesburg;Dél-Afrika;9616000

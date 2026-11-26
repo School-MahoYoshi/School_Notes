@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- Compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+    <table id="tablazat">
+        <thead>
+            <tr>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+    <script>
+        fejlecek = {}
+        adatok = [
+            {
+                id: 1,
+                name: "Zámbó Jimmy",
+                email: "jimmy@kiraly.hu"
+            },
+            {
+                id: 2,
+                email: "lajcsi@lakodalom.hu",
+                name: "Lagzi Lajcsi"
+            },
+            {
+                name: "Tóth Gabi",
+                id: 3,
+                email: "gabi@fides.hu"
+            },  
+            {
+                id: 4,
+                name: "Bunyós Pityu",
+                email: "mindenkit@leverek.hu"
+            }
+        ]
+
+        function addTD(parent, text) {
+            let td = document.createElement("td")
+            td.innerText = text
+            parent.appendChild(td)
+        }
+        function addTR() {
+            let table = document.querySelector("table#tablazat>tbody")
+            for (let i = table.children.length; i < adatok.length; i++) {
+                const element = adatok[i];
+                let tr = document.createElement("tr")
+
+                for (let key in element) {
+                    addTD(tr, element[key])
+                }
+
+                table.appendChild(tr)
+            }
+        }
+
+        function addHeader() {
+            const loc = {
+                id: "ID",
+                name: "Név",
+                email: "Email"
+            }
+            const element = adatok[0]
+            let i = 0
+            const parent = document.querySelector("table#tablazat tr")
+            for (const key in element) {
+                let th = document.createElement("th")
+                th.innerText = loc[key]
+                parent.appendChild(th)
+
+                fejlecek[key] = i
+                i++
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", addHeader)
+        document.addEventListener("DOMContentLoaded", addTR)
+    </script>
+</body>
+</html>

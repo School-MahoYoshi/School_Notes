@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map - Filter</title>
+</head>
+<body>
+    <h1>map és filter</h1>
+    <div id="teszt"></div>
+<script>
+    const maindiv = document.querySelector("div#teszt")
+    async function main() {
+        const posts = await (await fetch("https://jsonplaceholder.typicode.com/posts")).json()
+        const users = await (await fetch("https://jsonplaceholder.typicode.com/users")).json()
+
+        for (const element of posts) {
+            const div = document.createElement("div");
+            div.appendChild(document.createElement("hr"));
+
+            const title = document.createElement("h4");
+            title.innerText = element.title;
+            div.appendChild(title);
+
+            const content = document.createElement("p");
+            content.innerText = element.body;
+            div.appendChild(content);
+
+            const footer = document.createElement("h6");
+            const user = users.filter(e => e.id == element.userId)
+            footer.innerText = `${user.map(e => e.username)} (${user.map(e => e.name)})`;
+            div.appendChild(footer);
+
+            maindiv.appendChild(div);
+        }
+    }
+    main()
+</script>
+</body>
+</html>

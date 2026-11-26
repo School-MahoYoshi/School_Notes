@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .kor {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: 1px black solid;
+            margin: 10px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <div class="kor"></div>
+        <div class="kor"></div>
+        <div class="kor"></div>
+        <div class="kor"></div>
+        <div class="kor"></div>
+        <div class="kor"></div>
+    </div>
+    <button id="generateButton">Generálás</button>
+    <button id="addButton">Kör hozzáadása</button>
+    <button id="rmButton">Kör eltávolítása</button>
+
+    <script>
+        function randomColor() {
+            const r = Math.floor(Math.random() * 256);
+            const g = Math.floor(Math.random() * 256);
+            const b = Math.floor(Math.random() * 256);
+            return `#${r.toString(16).padStart(2, '0')}${g.toString(16).padStart(2, '0')}${b.toString(16).padStart(2, '0')}`;
+        }
+
+        function generate() {
+            const elements = document.querySelectorAll("#content>div.kor");
+            for (const element of elements) {
+                element.style.backgroundColor = randomColor();
+            }
+        }
+        generate();
+        document.getElementById("generateButton").addEventListener("click", generate);
+
+        function addDiv() {
+            const newDiv = document.createElement("div");
+            newDiv.classList.add("kor");
+            newDiv.style.backgroundColor = randomColor();
+            document.getElementById("content").appendChild(newDiv);
+        }
+        document.getElementById("addButton").addEventListener("click", addDiv);
+
+        function removeDiv() {
+            const content = document.getElementById("content");
+            if (content.lastElementChild) {
+                content.removeChild(content.lastElementChild);
+            }
+        }
+        document.querySelector("#rmButton").addEventListener("click", removeDiv);
+    </script>
+</body>
+</html>
